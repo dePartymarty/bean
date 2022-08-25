@@ -1,0 +1,63 @@
+
+/*--------------------Global--------------------*/
+html {
+    box-sizing: border-box;
+}
+
+.content-wrap {
+  width: 800px;
+  margin: 0 auto;
+  padding: 60px 0;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color:#121212;
+  color:#d3d3d3
+}
+/*--------------------Banner--------------------*/
+/* Logo, Text:Title/Page, (misc buttons/links), (button) login, (button) register*/
+.top-page-header{
+    max-height:300px;
+    overflow:hidden
+}
+
+
+
+/*--------------------Build_Editor--------------------*/
+/* Text: Build Editor, (icon) create build, (button) save, (button) share*/
+
+
+
+
+/*--------------------Main Content--------------------*/
+/*Split into 3 panes*/
+
+
+
+
+/*--------------------1. MC_SideNav--------------------*/
+/* Text+Icon: Character/Equipment/Skills/Passives/Champion/Consumables, (icon) create build, (button) save, (button) share*/
+
+
+
+
+/*--------------------2. MC_DynNav--------------------*/
+/* Text: Dynamic content that changes based on what is selected from side nav*/
+
+
+
+
+/*--------------------3. MC_Stats--------------------*/
+/* Text: Listed Stats*/
+
+
+
+/*--------------------Footer--------------------*/
+p{
+    margin-bottom:0!important
+}
+.h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6{
+    margin-bottom:unset
+}
